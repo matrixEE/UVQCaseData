@@ -1,6 +1,6 @@
 # UVQCaseData
 The power generation and load data in the case studies of the paper "Uncertain Voltage Quantification for Risk-Constrained Volt/Var Optimization in Power Distribution Systems".  
-The active power outputs of photovoltaic units are obtained using the actual solar irradiation data provided by SolarAnywhere [1]. The load data are obtained by normalizing the load drawn from real-world measurements [2], and then multiplying it by the nominal load from the original load data of the systems [3], [4].
+The active power outputs of photovoltaic units are obtained using the actual solar irradiation data provided by SolarAnywhere [1]. The load data are obtained by normalizing the load drawn from real-world measurements [2], and then multiplying it by the average load from the original load data of the systems [3], [4].
 
 ## Power Generation and Load Configuration
 The modified IEEE 33-bus system contains 4 PV units and 32 loads. The nominal power generation of each PV unit is 1 MW and the average load of each bus is found in [3].    
