@@ -12,8 +12,8 @@ The modified IEEE 123-bus system contains 9 PV units and 85 loads. The nominal p
 "IEEE123_PV&Load_Data.mat' is the data file in the modified IEEE 123-bus system.
 
 ## Variable Format  
-"PV_hourly_normalized" is the hourly data of the normalized active power of PV units, of which each column represents a PV unit. The base value of each PV unit is the nominal power generation of each PV unit.   
-"load_hourly_normalized" is the hourly data of the normalized loads, of which each column represents a load. The base value of each load is the average value of each load.    
+"PV_hourly_normalized" is the hourly data of the normalized active power of PV units, of which each column represents a PV unit. The base value for the normalization of each PV unit is the nominal power generation of each PV unit.   
+"load_hourly_normalized" is the hourly data of the normalized loads, of which each column represents a load. The base value for the normalization of each load is the average value of each load.    
 "timeLabel_hourly" is the time label of the hourly data from Jan. 1, 2011 to Dec. 31, 2014.  
 
 ## References
