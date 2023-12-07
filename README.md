@@ -1,5 +1,5 @@
 # UVQCaseData
-The power generation and load data in the case studies of the paper "Uncertain Voltage Quantification for Risk-Constrained Volt/Var Optimization in Power Distribution Systems".  
+The power generation and load data in the case studies of the paper "Risk-Constrained Volt/Var Optimization with Non-Gaussian Voltage Quantification in Active Power Distribution Systems".  
 The active power outputs of photovoltaic units are obtained using the actual solar irradiation data provided by SolarAnywhere [1]. The load data are obtained by normalizing the load drawn from real-world measurements [2], and then multiplying it by the average load from the original load data of the systems [3], [4].
 
 ## Power Generation and Load Configuration
